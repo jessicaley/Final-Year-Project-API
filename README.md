@@ -1,5 +1,5 @@
 # Final-Year-Project
-A stock, HR, quotation, invoice, delivery and job management system built with Angular, FastAPI and Supabase.
+A stock, HR, quotation, invoice, delivery and job management API built with FastAPI and Supabase.
 
 ## 1 Set Up virtual environment
 
